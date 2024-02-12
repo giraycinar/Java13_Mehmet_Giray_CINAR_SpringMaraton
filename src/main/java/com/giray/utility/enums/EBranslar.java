@@ -1,0 +1,18 @@
+package com.giray.utility.enums;
+
+public enum EBranslar {
+    KARDIYOLOJI,
+    NOROLOJI,
+    PSIKIYATRI,
+    NEFROLOJI,
+    HEMATOLOJI,
+    ENFEKSIYON_HASTALIKLARI,
+    GASTROENTEROLOJI,
+    ENDOKRINOLOJI,
+    DERMATOLOJI,
+    UROLOJI,
+    KBB,
+    GOZ_HASTALIKLARI,
+    ORTOPEDI
+
+}

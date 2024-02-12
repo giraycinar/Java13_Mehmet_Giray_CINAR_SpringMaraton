@@ -1,0 +1,11 @@
+package com.giray.controller;
+
+import lombok.RequiredArgsConstructor;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import static com.giray.constants.RestApiUrls.*;
+@RestController
+@RequestMapping(RANDEVU_TALEP_EDEN)
+@RequiredArgsConstructor
+public class RandevuTalepEdenController {
+}

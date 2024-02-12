@@ -1,0 +1,15 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "doktor".(ÖçÊøÿÿÿÿ8ÿ¤ëÙ1
+M
+java:S1481"+Remove this unused "doktor" local variable.(ÖçÊøÿÿÿÿ8¥ëÙ1
+g
+java:S1128"KRemove this unused import 'com.giray.dto.Response.DoktorGetAllResponseDto'.(Ó¹‹x8ÁúëÙ1
+Q
+java:S1128"5Remove this unused import 'com.giray.entity.Randevu'.(Á‹k8ÁúëÙ1
+e
+java:S1128"CRemove this unused import 'com.giray.repository.RandevuRepository'.(éª¦ıÿÿÿÿ8ÁúëÙ1
+Z
+java:S1128	"=Remove this unused import 'com.giray.service.RandevuService'.(ÏÛ ‚8ÁúëÙ1
+V
+java:S1128"4Remove this unused import 'java.sql.DataTruncation'.(Œò­ÿÿÿÿÿ8ÂúëÙ1
